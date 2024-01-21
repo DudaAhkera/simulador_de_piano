@@ -1,4 +1,4 @@
-Projeto criado com o professor Felipe Aguiar com o Potência Tech by IFood
+Projeto criado com o professor Felipe Aguiar com o Potência Tech by IFood na plataforma da DIO.
 
 Projeto muito bacana de fazer com HTML, CSS e JavaScript
 
